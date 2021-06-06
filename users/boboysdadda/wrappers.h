@@ -39,12 +39,13 @@
 
 #define ___________________BLANK___________________         _______, _______, _______, _______, _______
 
-#define _________________LOWER_L1__________________         UC_FLIP, UC_TABL, UC_SHRG, UC_DISA, XXXXXXX
+#define _________________LOWER_L1__________________         KC_EXLM, KC_AT,   KC_HASH, KC_DLR,  KC_PERC
 #define _________________LOWER_L2__________________         KC_HOME, KC_UP,   KC_END,  KC_PGUP, XXXXXXX
 #define _________________LOWER_L3__________________         KC_LEFT, KC_DOWN, KC_RGHT, KC_PGDN, XXXXXXX
 #define _________________LOWER_L4__________________         ___________________BLANK___________________
 
-#define _________________LOWER_R1__________________         ___________________BLANK___________________
+#define _________________LOWER_R1__________________         bKC_CIRC, KC_AMPR, KC_ASTR, KC_LPRN, KC_RPRN
+#define _________________LOWER_R1__________________         bKC_CIRC, KC_AMPR, KC_ASTR, KC_LPRN, KC_RPRN
 #define _________________LOWER_R2__________________         ___________________BLANK___________________
 #define _________________LOWER_R3__________________         XXXXXXX, KC_UNDS, KC_PLUS, KC_LCBR, KC_RCBR
 #define _________________LOWER_R4__________________         ___________________BLANK___________________
